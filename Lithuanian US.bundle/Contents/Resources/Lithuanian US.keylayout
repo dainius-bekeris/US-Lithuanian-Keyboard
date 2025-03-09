@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-04-01 at 08:12 (GMT+3)-->
 <!--Last edited by Ukelele version 2.2.8 on 2015-04-01 at 08:28 (GMT+3)-->
-<keyboard group="0" id="6334" name="Lithuanian (US keyboard with Lithuanian letters)" maxout="1">
+<!--Last edited by Ukelele version 415 on 2025-03-01 at 15:46 (GMT+1)-->
+<keyboard group="126" id="6334" name="Lithuanian US" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
         <layout first="18" last="18" modifiers="f4" mapSet="984"/>
